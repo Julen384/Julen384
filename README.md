@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Julen384
+- 👋 Hi, I’m Julián Nielfa Gracia
 - 👀 I am interested in learning and improving my skills as a Junior Fullstack Developer, but I ❤️ love Front-end design.
 - 🧠 I am currently learning 🅰️ngular.
 - 📫 How to reach me through my LinkedIn: https://www.linkedin.com/in/juli%C3%A1n-nielfa-gracia-a42a2371
