@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julen384
 - 👀 I am interested in learning and improving my skills as a Junior Fullstack Developer, but I ❤️ love Front-end design.
-- 🌱 I’m currently learning JavaScript, PHP, LARAVEL,  etc...
+- 🌱 I am currently learning Angular.
 - 📫 How to reach me through my LinkedIn: https://www.linkedin.com/in/juli%C3%A1n-nielfa-gracia-a42a2371
 
 <!---
