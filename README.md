@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Julián Nielfa Gracia.
 - 👀 I am interested in learning and improving my skills as a Junior Fullstack Developer, but I ❤️ love Front-end design.
 - 🧠 I am currently learning 🅰️ngular.
-- 💻 Working in Alzis.
+- 💻 Working in ALZIS in Elche.
 - 📫 How to reach me through my LinkedIn: www.linkedin.com/in/juliannielfagracia/
 
 <!---
